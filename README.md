@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shripalshaha1
 - 👀 I’m interested in Big Data, Machine Learning, Database Management System
-- 🌱 I’m currently pursuing MSc. Data Analytics
+- 🌱 I’m currently pursuing MS. Data Analytics
 - 📫 How to reach me shripalshaha1@gmail.com
 
 <!---
